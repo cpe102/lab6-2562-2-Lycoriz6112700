@@ -24,7 +24,7 @@ int main(){
     cout << "Fahsai: " << day << "....that is OK!!! I'm looking forward to watch " << movie << " with you.\n";
     cout << name << ": ";
     cin >> sent;
-    cout << "Fahsai: 555+ see you " << day << ". Bye Bye \(^ ^)/";
+    cout << "Fahsai: 555+ see you " << day << ". Bye Bye \\(^ ^)/";
     
     return 0;
 }
